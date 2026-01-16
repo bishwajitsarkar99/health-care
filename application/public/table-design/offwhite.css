@@ -1,0 +1,36 @@
+:root{
+    --table-head-bg:-webkit-gradient(linear, 0 100%, 0 0, from(#bcaee930), to(#bcaee930));
+    --table-head-border-left:1px ridge #fff;
+    --table-head-border-top:1px ridge #fff;
+    --table-head-border-bottom:1px ridge rgba(0,123,255,0.2);
+    --table-head-border-right:1px ridge #fff;
+    --table-last-head-border-right:1px ridge #fff;
+    --table-head-padding: 0px 5px;
+    --table-head-font-size: 12px;
+    --table-head-font-weight: 600;
+    --table-head-font-color: #222;
+    --table-head-text-align: left;
+    --table-head-letter-spacing: 0.5px;
+    --table-body-td-first-column-cell-border-left:1px ridge #fff;
+    --table-body-td-first-column-cell-border-top:1px ridge #fff;
+    --table-body-td-first-column-cell-border-right:1px ridge #fff;
+    --table-body-td-first-column-cell-border-bottom:1px ridge #fff;
+    --table-body-td-middle-column-cell-border-left:1px ridge #fff;
+    --table-body-td-middle-column-cell-border-top:1px ridge #fff;
+    --table-body-td-middle-column-cell-border-right:1px ridge #fff;
+    --table-body-td-middle-column-cell-border-bottom:1px ridge #fff;
+    --table-body-td-last-column-cell-border-left:1px ridge #fff;
+    --table-body-td-last-column-cell-border-top:1px ridge #fff;
+    --table-body-td-last-column-cell-border-right:1px ridge #fff;
+    --table-body-td-last-column-cell-border-bottom:1px ridge #fff;
+    --table-body-td-backgorund:white;
+    --table-body-td-letter-spacing:0.3px;
+    --table-row-cursor: alias;
+    --table-row-hover-bg: rgb(187, 233, 248);
+    --table-row-nth-td-hover-bg: none;
+    --table-row-hover-color: #111;
+    --table-resposive-border: 1px ridge rgba(0,123,255,0.2);
+    --table-td-click-bg:-webkit-gradient(linear, 0% 100%, 0% 0%, from(rgb(224, 254, 255)), to(rgb(195, 235, 255)));
+    --table-td-even-background:#bcaee930;
+    --table-td-odd-background:#bcaee930;
+}

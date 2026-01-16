@@ -1,0 +1,38 @@
+:root{
+    --table-head-bg:-webkit-gradient(linear, 0 100%, 0 0, from(rgb(243 243 243)), to(rgb(243 243 243)));
+    --table-head-border-left:1px dotted #cccccc;
+    --table-head-border-top:1px dotted #cccccc;
+    --table-head-border-bottom:1px ridge rgba(0,123,255,0.2);
+    --table-last-head-border-right:1px dotted #cccccc;
+    --table-head-border-right:1px dotted #cccccc;
+    --table-last-head-border-right:1px dotted #cccccc;
+    --table-head-padding: 0px 5px;
+    --table-head-font-size: 12px;
+    --table-head-font-weight: 600;
+    --table-head-font-color: #222;
+    --table-head-text-align: left;
+    --table-head-letter-spacing: 0.5px;
+    --tbody-bottom-border:1px dotted #cccccc;
+    --table-body-td-first-column-cell-border-left:1px dotted #cccccc;
+    --table-body-td-first-column-cell-border-top:1px ridge #fff;
+    --table-body-td-first-column-cell-border-right:1px dotted #cccccc;
+    --table-body-td-first-column-cell-border-bottom:1px ridge #fff;
+    --table-body-td-middle-column-cell-border-left:1px dotted #cccccc;
+    --table-body-td-middle-column-cell-border-top:1px ridge #fff;
+    --table-body-td-middle-column-cell-border-right:1px dotted #cccccc;
+    --table-body-td-middle-column-cell-border-bottom:1px ridge #fff;
+    --table-body-td-last-column-cell-border-left:1px dotted #cccccc;
+    --table-body-td-last-column-cell-border-top:1px ridge #fff;
+    --table-body-td-last-column-cell-border-right:1px dotted #cccccc;
+    --table-body-td-last-column-cell-border-bottom:1px ridge #fff;
+    --table-body-td-backgorund:white;
+    --table-body-td-letter-spacing:0.3px;
+    --table-row-cursor: alias;
+    --table-row-hover-bg: rgb(245, 245, 245);
+    --table-row-nth-td-hover-bg: rgb(245, 245, 245);
+    --table-row-hover-color: #111;
+    --table-resposive-border: 1px ridge rgba(0,123,255,0.2);
+    --table-td-click-bg:-webkit-gradient(linear, 0% 100%, 0% 0%, from(honeydew), to(honeydew));
+    --table-td-even-background:rgb(243 243 243);
+    --table-td-odd-background:#fff;
+}
